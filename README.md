@@ -34,3 +34,10 @@ This exercise is for students coming to Javascript from another programming lang
 - [Poker](https://github.com/boolean-uk/js-poker-challenge)
 
 ---
+
+### Useful Resources
+
+- [Mozilla's Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [Object Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+- [Math Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
