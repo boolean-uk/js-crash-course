@@ -5,7 +5,6 @@
 - Get familiar with JavaScript when coming from another language
 - Explain the differences between `let` and `const`
 - Explain the difference between strict and loose equality, `==`, `===`
-- Explain hoisting
 - Use arrays and objects as data structures
 - Use loops to iterate through arrays and object properties
 - Explain the difference between functions and arrow functions
