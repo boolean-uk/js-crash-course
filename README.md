@@ -25,7 +25,6 @@ This exercise is for students coming to Javascript from another programming lang
 4. [Loops](https://github.com/boolean-uk/js-fundamentals-loops)
 5. [Functions 1](https://github.com/boolean-uk/js-fundamentals-functions-1)
 6. [Functions 2](https://github.com/boolean-uk/js-fundamentals-functions-2)
-7. [Functions 3](https://github.com/boolean-uk/js-fundamentals-functions-3)
 
 ---
 
